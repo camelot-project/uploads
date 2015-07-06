@@ -1,0 +1,10 @@
+\DOI = "10.1093/mnras/stv941"
+\ADS = "2015MNRAS.450.4035F"
+\author = ChristophFederrath
+\email = christoph.federrath@gmail.com
+\IsObserved = False
+\IsGalactic = True
+|  ID   | Radius | SurfaceDensity | VelocityDispersion |
+|char   | float  | float          | float              |
+|       |  pc    |  g/cm^2        |  km/s              |
+ GvsTMJ    1.0      0.02             1.0
