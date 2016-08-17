@@ -1,0 +1,12 @@
+|              Name|  SurfaceDensity|VelocityDispersion|       Radius|IsSimulated|          SyntheticObservations|                                                   DataURL|
+|              char|          double|            double|       double|       char|                           char|                                                      char|
+|                  |         g / cm2|            km / s|           pc|           |                               |                                                          |
+|              null|            null|              null|         null|       null|                           null|                                                      null|
+ JimDaleRunIiwfb032  0.0105939963043      0.84333183913 3.62053226087       False https://zenodo.org/record/31293       https://girder.hub.yt/#item/57b4269a7b6f080001528c74 
+ JimDaleRunIiwfb052   0.011219443913      2.82954773913 3.58292030435       False https://zenodo.org/record/31293                                                            
+ JimDaleRunIiwfb072  0.0116731786957      4.11705191304 3.60511256522       False https://zenodo.org/record/31293                                                            
+ JimDaleRunIiwfb092        0.0111668      5.29786508696 3.59820182609       False https://zenodo.org/record/31293                                                            
+ JimDaleRunIiwfb112  0.0107355191304      6.45425965217  3.5802193913       False https://zenodo.org/record/31293                                                            
+ JimDaleRunIiwfb132  0.0104537595217      7.50124091304 3.55723426087       False https://zenodo.org/record/31293                                                            
+ JimDaleRunIiwfb153  0.0100721176087      10.4538534348  3.5230826087       False https://zenodo.org/record/31293                                                            
+ JimDaleRunIiwfb180 0.00980310143478      11.2568819565  3.4690226087       False https://zenodo.org/record/31293       https://girder.hub.yt/#item/57b429787b6f080001528c77 
