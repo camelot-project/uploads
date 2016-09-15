@@ -1,0 +1,11 @@
+\DOI = "10.1051/0004-6361/201014177"
+\ADS = "2010ApJ...711.1017P"
+\author = ThomasPeters
+\email = thomas.peters.uni.hd@gmail.com
+\IsObserved = False
+\IsGalactic = True
+|  ID | Radius | SurfaceDensity | VelocityDispersion |
+|char | float  | float          | float              |
+|     |  pc    |  g/cm^2        |  km/s              |
+ RunA   1.70      0.025            0.44
+ RunB   1.70      0.025            0.44
